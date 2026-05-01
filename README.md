@@ -14,7 +14,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/amengol/bluedrip-releases/releases">
-    <img src="https://img.shields.io/github/v/release/amengol/bluedrip-releases?style=for-the-badge&label=latest&color=1d9bf0" alt="Latest release">
+    <img src="https://img.shields.io/github/v/release/amengol/bluedrip-releases?style=for-the-badge&label=latest&color=1d9bf0&cacheSeconds=3600" alt="Latest release">
   </a>
 </p>
 
